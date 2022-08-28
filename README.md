@@ -9,8 +9,10 @@ restaurants and healthy foods and spend their nice moment using this blogging si
 
 
 
-# Figma Link 🔗 
+# Figma 🔗 
 
+https://www.figma.com/file/zJkZroOH9HKh82Ta8J9qRV/482-project?node-id=0%3A1
+#
 https://www.figma.com/proto/zJkZroOH9HKh82Ta8J9qRV/482-project?node-id=6%3A128&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A128
 
 #
